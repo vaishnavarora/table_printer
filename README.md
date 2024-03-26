@@ -1,7 +1,7 @@
 # table_printer
 This is a simple python code that would allow you to print the table of any number you want and upto what number you want.
 
-# how to run
+## how to run
 1. Copy the code in any compiler.
 2. Run the code.
 3. Enter the number of which you want to print the table of (like you want to print the table of 17 so write 17).
